@@ -6814,11 +6814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mayur-AutoFrameworks\\MayurApr2020\\MayurApr2020\\MayurApr2020.csproj",
+      "projectUniqueName": "C:\\Mayur-AutoFrameworks\\FIX\\MayurApr2020\\MayurApr2020.csproj",
       "projectName": "MayurApr2020",
-      "projectPath": "C:\\Mayur-AutoFrameworks\\MayurApr2020\\MayurApr2020\\MayurApr2020.csproj",
+      "projectPath": "C:\\Mayur-AutoFrameworks\\FIX\\MayurApr2020\\MayurApr2020.csproj",
       "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
-      "outputPath": "C:\\Mayur-AutoFrameworks\\MayurApr2020\\MayurApr2020\\obj\\",
+      "outputPath": "C:\\Mayur-AutoFrameworks\\FIX\\MayurApr2020\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
